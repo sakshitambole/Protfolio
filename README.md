@@ -111,7 +111,7 @@ https://sakshitambole.github.io/Protfolio
 
 Sakshi Tambole
 
-Aspiring Software Developer
+Software Developer
 
 📜 License
 
